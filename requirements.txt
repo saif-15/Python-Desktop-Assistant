@@ -1,0 +1,6 @@
+google-api-python-client
+PyAudio
+wikipedia 
+speechRecognition
+pyttsx3
+monotonic
